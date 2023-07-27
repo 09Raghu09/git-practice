@@ -1,0 +1,9 @@
+https://deliveringtechnology2018.atlassian.net/wiki/spaces/CC21S/pages/2490433537/QL-2+Intro+to+Objects
+
+
+http://localhost:8080/h2-console/login.do?jsessionid=04228b3e7b9d0eae2678d25fd7fb1b12
+
+Confluence
+
+Id : db.grad@celestial.co.uk
+Password: 8*b?>)_XU+
