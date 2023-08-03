@@ -1,0 +1,11 @@
+CREATE TABLE my_table (
+  id INT NOT NULL AUTO_INCREMENT,
+  name VARCHAR(255) NOT NULL,
+  value VARCHAR(255) NOT NULL,
+  PRIMARY KEY (id)
+);
+
+INSERT INTO my_table (name, value) VALUES
+  ('Name 1', 'Value 1'),
+  ('Name 2', 'Value 2'),
+  ('Name 3', 'Value 3');
